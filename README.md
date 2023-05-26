@@ -1,0 +1,2 @@
+# lokalise
+Darginid Project
